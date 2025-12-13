@@ -11,12 +11,7 @@
 <div align="center">
  
  🎓 Undergraduate Software Engineering student  
- 
  🏫 University of Sri Jayewardenepura, Sri Lanka
-
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/kavinda9)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
  </div>
  
